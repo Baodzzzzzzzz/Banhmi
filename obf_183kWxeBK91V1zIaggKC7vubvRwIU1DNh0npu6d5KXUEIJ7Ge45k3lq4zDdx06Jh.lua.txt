@@ -1,0 +1,2 @@
+_G.Name = "bánh mì" -- Put You Name Script             _G.Logo = "cc" -- Enter Your ID Image Here
+loadstring(Game:HttpGet"https://raw.githubusercontent.com/ImTienNguyenZ/NguyenTienSimpRose/main/NguyenMinhTienLoader")() 
